@@ -30,4 +30,9 @@
     NSLog(@"This is a new method that does stuff");
 }
 
+- (void)someOtherMethod
+{
+    NSLog(@"This is some other method");
+}
+
 @end
