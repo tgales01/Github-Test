@@ -25,4 +25,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)someNewMethod
+{
+    NSLog(@"This is a new method that does stuff");
+}
+
 @end
